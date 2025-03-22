@@ -1,0 +1,5 @@
+name: Merge module.exports
+description: Merge two module export exist in the file
+---
+There are two module.exports object being declare in this file
+Compare the difference and merge them into one

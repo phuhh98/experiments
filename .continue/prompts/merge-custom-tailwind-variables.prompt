@@ -1,0 +1,5 @@
+name: Merge tailwind custom variables
+description: Merge tailwind custom declare multiple times in the file
+---
+Merge the two sets of custom variables into one
+Ensuring no duplicates and combining unique variables.

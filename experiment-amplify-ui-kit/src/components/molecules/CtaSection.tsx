@@ -5,7 +5,7 @@ import React from "react";
 
 export const CtaSection: React.FC = () => {
   return (
-    <section className="flex flex-col w items-start justify-center gap-6 p-10 bg-white mx-auto">
+    <section className="flex flex-col w-full items-start justify-center gap-6 p-[10rem] bg-white">
       <div className="flex flex-col items-start justify-center gap-4 w-full">
         <h2 className="text-colorsbrandsecondary-60 text-sm font-semibold">
           Newsletter
