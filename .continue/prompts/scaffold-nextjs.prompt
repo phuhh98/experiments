@@ -1,0 +1,17 @@
+name: scaffold nextjs project
+description: Scaffolding a Nextjs project with a provided a name
+---
+Cli usage is from the provided url.
+@https://nextjs.org/docs/app/api-reference/cli/create-next-app
+Select options:
+    - Typescript : yes
+    - Eslint : yes
+    - Tailwind CSS: yes
+    - 'src/' directory: yes
+    - App router: yes
+    - Turbopack : yes
+    - Default import alias as '@/*': yes
+
+Use the provided tools to run command(s) to scaffold and Nextjs project automatically
+for the provided Project name with no interference from human.
+OS info: @os

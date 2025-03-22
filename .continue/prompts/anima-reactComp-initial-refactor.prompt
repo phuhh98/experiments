@@ -1,0 +1,9 @@
+name: anima-reactComp-initial-refactor
+description: Refactor the initial exported React component from Anima Frontier
+version: 1
+---
+@currentFile
+Refactor this Reactjs component to align with new version of React using functional component React.FC<Props>
+Export declared component on the same line, no default export
+Remove the use of PropTypes, JSX.Element.\nRefactor the name of Component's Props keys.
+Only return code change.
