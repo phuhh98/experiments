@@ -1,0 +1,7 @@
+name: tailwind usage update command
+description: Update the usage of tailwind utilities based on the custom theme in global css
+version: 1
+---
+@file:///c%3A/Users/phuhh/Desktop/experiment/experiment-amplify-ui-kit/src/app/globals.css
+based on the custom theme in global css,
+update usage of tailwind utilities of those variables accordingly in tailwind style - dont use var() css function, returned the modified code only

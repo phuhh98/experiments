@@ -1,0 +1,21 @@
+name: Update tailwind config
+description: Update tailwind config with exact values from named variables
+---
+Add other variables as extended settings for this tailwind config at the according aspects
+Add other aspects of font variable to this config
+Use exact value from the variable instead of the variable name
+example
+```json
+{
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#ff6347",
+        "secondary": "#ff6347"
+      },
+      "fontFamily": {
+        "sans": ["Inter", "sans-serif"]
+      }
+    }
+  }
+}
