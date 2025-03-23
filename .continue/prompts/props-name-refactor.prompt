@@ -1,0 +1,6 @@
+name: Props name refactor
+description: Refactor name of props for readability
+---
+Refactor name of props for readability
+If any prop is used within a predefined component in the implementation below
+use React.ComponentProps<typeof Component> to get the props type of that component as assign to the refactored prop definition.

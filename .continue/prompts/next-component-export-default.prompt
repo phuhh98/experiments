@@ -1,0 +1,6 @@
+name: update next component export default
+description: Update Next.js component export default to use named export
+---
+This is Nextjs page.tsx file.
+Update this Next.js component named export to export default.
+Remove JSX.Element type with React.FC for component definition.

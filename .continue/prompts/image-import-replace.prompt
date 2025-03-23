@@ -1,0 +1,5 @@
+name: image import replace
+description: Replace image import with src prop in Image component
+---
+Replace image import with src prop in Image component in format of
+"/img/image-name.image-extension"
